@@ -1,1 +1,4 @@
-pip install numpy streamlit pickle pybase64
+numpy
+streamlit
+pickle
+pybase64
