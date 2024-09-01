@@ -1,5 +1,5 @@
-fastapi
-numpy
+fastapi==0.112.2
+numpy==2.1.0
 streamlit==1.38.0
-scikit-learn==0.24.2
+scikit-learn==0.23.2 
 pybase64
