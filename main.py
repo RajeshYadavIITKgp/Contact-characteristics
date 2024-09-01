@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import base64
-import keras
 import pickle
 from streamlit.runtime.scriptrunner.script_run_context import get_script_run_ctx as get_report_ctx
 
