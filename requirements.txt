@@ -2,5 +2,4 @@ fastapi
 numpy
 scikit-learn
 streamlit
-pickle
 pybase64
