@@ -1,4 +1,0 @@
-numpy
-streamlit
-pickle
-pybase64
