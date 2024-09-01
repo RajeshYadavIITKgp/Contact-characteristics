@@ -1,0 +1,6 @@
+fastapi
+numpy
+scikit-learn
+pickle
+pybase64
+streamlit
