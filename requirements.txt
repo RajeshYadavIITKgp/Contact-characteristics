@@ -1,3 +1,4 @@
+pickle
 fastapi
 numpy
 scikit-learn
